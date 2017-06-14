@@ -8,11 +8,13 @@ Welcome to Great Chuck Norris Websites.
 
 3) Start dev server
 
-4) Make ajax request to [chuck norris API](http://www.icndb.com/api/). You may use vanilla javascript or any 3rd party library of your choice - jQuery included.
+4) Make an ajax request to [Chuck Norris API](http://www.icndb.com/api/). You may use vanilla javascript or any 3rd party library of your choice - jQuery included.
 
-5) Get 6 random chuck norris jokes, render the ID and the joke.
+5) Get 6 random Chuck Norris jokes, render the ID and the joke.
 
-## When finished, your project look like:
+6) When finished, email your zipped project or provide a public GitHub link.
+
+## When finished, your project should look like:
 ![finished project](finished.png?raw=true)
 
 
