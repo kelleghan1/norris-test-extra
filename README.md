@@ -13,6 +13,6 @@ Welcome to Great Chuck Norris Websites.
 5) Get 6 random chuck norris jokes, render the ID and the joke.
 
 ## When finished, your project look like:
-![finished project](great-chuck-norris-websites-react/finished.png?raw=true)
+![finished project](finished.png?raw=true)
 
 
