@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import logo from './home-logo.png';
 import './App.css';
+import JokeList from './components/joke_list';
+
 
 class App extends Component {
   render() {
@@ -10,9 +12,9 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h2>Welcome to Great Chuck Norris Websites</h2>
         </div>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+        <div id="joke-list">
+        <JokeList />
+        </div>
       </div>
     );
   }

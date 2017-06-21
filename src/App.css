@@ -22,3 +22,16 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.joke {
+  padding: 10px 0;
+}
+
+.joke:nth-of-type(1){
+  padding-top: 20px;
+}
+
+.joke-id {
+  background-color: green;
+  color: #fff;
+}
